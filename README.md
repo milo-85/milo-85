@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hi, I'm Milo. I made a game for my mobile programming class called breaking bricks. "Live every day to the most"
 
 <!--
